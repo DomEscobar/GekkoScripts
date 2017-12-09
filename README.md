@@ -12,3 +12,5 @@ Currently im on the track to write a 3day range breakout script that :
 - 5. Detect trough twitter API the most violation of coins
 
 Maybe later KI with tensoflow
+
+Bot is :  https://github.com/askmike/gekko
